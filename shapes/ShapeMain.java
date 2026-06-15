@@ -46,5 +46,6 @@ public class ShapeMain{
         // Shape s = new Shape("Red", true);
 
         //Answer: Shape is abstract; cannot be instantiated
+        //KOBIR
     }
 }
